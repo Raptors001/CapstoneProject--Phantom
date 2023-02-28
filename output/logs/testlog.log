@@ -1,0 +1,128 @@
+2023-02-13 17:07:22,528 - logger_File -INFO - User is on retail website
+2023-02-13 17:07:22,717 - logger_File -INFO - User searched for Pokemon item
+2023-02-13 17:07:22,828 - logger_File -INFO - Product is displayed
+2023-02-14 14:20:00,513 - logger_File -INFO - User is on retail website
+2023-02-14 14:20:00,772 - logger_File -INFO - User searched for Pokemon item
+2023-02-14 14:20:00,885 - logger_File -INFO - Product is displayed
+2023-02-14 14:30:09,665 - logger_File -INFO - User is on retail website
+2023-02-14 14:30:09,894 - logger_File -INFO - User searched for Pokemon item
+2023-02-14 14:30:10,015 - logger_File -INFO - Product is displayed
+2023-02-14 14:59:49,322 - logger_File -INFO - User is on retail website
+2023-02-14 14:59:49,539 - logger_File -INFO - User searched for Pokemon item
+2023-02-14 14:59:49,682 - logger_File -INFO - Product is displayed
+2023-02-15 16:19:09,163 - logger_File -INFO - User is on retail website
+2023-02-15 16:19:09,317 - logger_File -INFO - user clicked on Sign in Option
+2023-02-15 16:19:09,589 - logger_File -INFO - user entered email and password
+2023-02-15 16:19:09,679 - logger_File -INFO - user clicked on login button
+2023-02-15 16:19:10,153 - logger_File -INFO - user is logged in into Account
+2023-02-15 17:02:34,314 - logger_File -INFO - User is on retail website
+2023-02-15 17:02:34,421 - logger_File -INFO - user clicked on Sign in Option
+2023-02-21 14:46:36,296 - logger_File -INFO - User is on retail website
+2023-02-21 14:46:36,425 - logger_File -INFO - user clicked on Sign in Option
+2023-02-21 14:47:13,210 - logger_File -INFO - User is on retail website
+2023-02-21 14:47:13,386 - logger_File -INFO - user clicked on Sign in Option
+2023-02-21 14:47:13,631 - logger_File -INFO - user entered email and password
+2023-02-21 14:47:13,708 - logger_File -INFO - user clicked on login button
+2023-02-21 14:47:13,923 - logger_File -INFO - user is logged in into Account
+2023-02-21 14:47:59,357 - logger_File -INFO - User is on retail website
+2023-02-21 14:47:59,470 - logger_File -INFO - user clicked on Sign in Option
+2023-02-21 14:47:59,701 - logger_File -INFO - user entered email and password
+2023-02-21 14:47:59,770 - logger_File -INFO - user clicked on login button
+2023-02-21 14:47:59,984 - logger_File -INFO - user is logged in into Account
+2023-02-21 16:32:48,942 - logger_File -INFO - User is on retail website
+2023-02-21 16:32:49,073 - logger_File -INFO - user clicked on Sign in Option
+2023-02-21 16:32:49,182 - logger_File -INFO - user clicked on Create New Account button
+2023-02-21 16:32:49,572 - logger_File -INFO - user filled the signUp information form
+2023-02-21 16:32:49,667 - logger_File -INFO - user clicked on SignUp button
+2023-02-21 16:32:49,883 - logger_File -INFO - user is logged into account page
+2023-02-21 16:34:19,011 - logger_File -INFO - User is on retail website
+2023-02-21 16:34:19,106 - logger_File -INFO - user clicked on Sign in Option
+2023-02-21 16:34:19,190 - logger_File -INFO - user clicked on Create New Account button
+2023-02-21 16:34:19,601 - logger_File -INFO - user filled the signUp information form
+2023-02-21 16:34:19,685 - logger_File -INFO - user clicked on SignUp button
+2023-02-21 16:34:19,906 - logger_File -INFO - user is logged into account page
+2023-02-21 16:35:25,111 - logger_File -INFO - User is on retail website
+2023-02-21 16:35:25,266 - logger_File -INFO - user clicked on Sign in Option
+2023-02-21 16:35:25,357 - logger_File -INFO - user clicked on Create New Account button
+2023-02-21 16:35:25,776 - logger_File -INFO - user filled the signUp information form
+2023-02-21 16:35:25,865 - logger_File -INFO - user clicked on SignUp button
+2023-02-21 17:04:06,054 - logger_File -INFO - User is on retail website
+2023-02-21 17:04:06,189 - logger_File -INFO - user clicked on Sign in Option
+2023-02-21 17:04:06,416 - logger_File -INFO - user entered email and password
+2023-02-21 17:04:06,480 - logger_File -INFO - user clicked on login button
+2023-02-21 17:04:06,691 - logger_File -INFO - user is logged in into Account
+2023-02-21 17:04:08,633 - logger_File -INFO - User is on retail website
+2023-02-21 17:04:08,856 - logger_File -INFO - user clicked on Sign in Option
+2023-02-21 17:04:09,094 - logger_File -INFO - user entered email and password
+2023-02-21 17:04:09,159 - logger_File -INFO - user clicked on login button
+2023-02-21 17:04:09,373 - logger_File -INFO - user is logged in into Account
+2023-02-21 17:04:11,475 - logger_File -INFO - User is on retail website
+2023-02-21 17:04:11,667 - logger_File -INFO - user clicked on Sign in Option
+2023-02-21 17:04:11,900 - logger_File -INFO - user entered email and password
+2023-02-21 17:04:11,973 - logger_File -INFO - user clicked on login button
+2023-02-21 17:04:12,195 - logger_File -INFO - user is logged in into Account
+2023-02-23 15:02:23,210 - logger_File -INFO - User is on retail website
+2023-02-23 15:02:25,438 - logger_File -INFO - User is on retail website
+2023-02-23 15:02:27,771 - logger_File -INFO - User is on retail website
+2023-02-23 15:02:29,990 - logger_File -INFO - User is on retail website
+2023-02-23 15:02:32,332 - logger_File -INFO - User is on retail website
+2023-02-23 16:29:37,125 - logger_File -INFO - User is on retail website
+2023-02-23 16:29:37,218 - logger_File -INFO - User click on All section link
+2023-02-23 16:29:37,333 - logger_File -INFO - TV & VideoThe items is present
+2023-02-23 16:29:37,383 - logger_File -INFO - Video GamesThe items is present
+2023-02-23 16:29:39,496 - logger_File -INFO - User is on retail website
+2023-02-23 16:29:39,614 - logger_File -INFO - User click on All section link
+2023-02-23 16:29:39,740 - logger_File -INFO - AccessoriesThe items is present
+2023-02-23 16:29:39,787 - logger_File -INFO - NetworkingThe items is present
+2023-02-23 16:29:42,118 - logger_File -INFO - User is on retail website
+2023-02-23 16:29:42,194 - logger_File -INFO - User click on All section link
+2023-02-23 16:29:42,335 - logger_File -INFO - Smart Home LightningThe items is present
+2023-02-23 16:29:42,379 - logger_File -INFO - Plugs and OutletsThe items is present
+2023-02-23 16:29:44,440 - logger_File -INFO - User is on retail website
+2023-02-23 16:29:44,542 - logger_File -INFO - User click on All section link
+2023-02-23 16:29:44,676 - logger_File -INFO - Athletic ClothingThe items is present
+2023-02-23 16:29:44,721 - logger_File -INFO - Exercise & FitnessThe items is present
+2023-02-23 16:29:46,860 - logger_File -INFO - User is on retail website
+2023-02-23 16:29:46,955 - logger_File -INFO - User click on All section link
+2023-02-23 16:29:47,099 - logger_File -INFO - Automative Parts & AccessoriesThe items is present
+2023-02-23 16:29:47,143 - logger_File -INFO - MotorCycle & PowersportsThe items is present
+2023-02-28 16:22:59,992 - logger_File -INFO - User is on retail website
+2023-02-28 16:23:00,179 - logger_File -INFO - User click on All section link
+2023-02-28 16:23:00,307 - logger_File -INFO - TV & VideoThe items is present
+2023-02-28 16:23:00,354 - logger_File -INFO - Video GamesThe items is present
+2023-02-28 16:23:02,712 - logger_File -INFO - User is on retail website
+2023-02-28 16:23:02,933 - logger_File -INFO - User click on All section link
+2023-02-28 16:23:03,065 - logger_File -INFO - AccessoriesThe items is present
+2023-02-28 16:23:03,112 - logger_File -INFO - NetworkingThe items is present
+2023-02-28 16:23:05,326 - logger_File -INFO - User is on retail website
+2023-02-28 16:23:05,545 - logger_File -INFO - User click on All section link
+2023-02-28 16:23:05,682 - logger_File -INFO - Smart Home LightningThe items is present
+2023-02-28 16:23:05,726 - logger_File -INFO - Plugs and OutletsThe items is present
+2023-02-28 16:23:08,049 - logger_File -INFO - User is on retail website
+2023-02-28 16:23:08,228 - logger_File -INFO - User click on All section link
+2023-02-28 16:23:08,363 - logger_File -INFO - Athletic ClothingThe items is present
+2023-02-28 16:23:08,409 - logger_File -INFO - Exercise & FitnessThe items is present
+2023-02-28 16:23:10,957 - logger_File -INFO - User is on retail website
+2023-02-28 16:23:11,094 - logger_File -INFO - User click on All section link
+2023-02-28 16:23:11,246 - logger_File -INFO - Automative Parts & AccessoriesThe items is present
+2023-02-28 16:23:11,289 - logger_File -INFO - MotorCycle & PowersportsThe items is present
+2023-02-28 16:24:57,076 - logger_File -INFO - User is on retail website
+2023-02-28 16:24:57,188 - logger_File -INFO - User click on All section link
+2023-02-28 16:24:57,304 - logger_File -INFO - TV & VideoThe items is present
+2023-02-28 16:24:57,369 - logger_File -INFO - Video GamesThe items is present
+2023-02-28 16:24:58,634 - logger_File -INFO - User is on retail website
+2023-02-28 16:24:58,723 - logger_File -INFO - User click on All section link
+2023-02-28 16:24:58,826 - logger_File -INFO - AccessoriesThe items is present
+2023-02-28 16:24:58,882 - logger_File -INFO - NetworkingThe items is present
+2023-02-28 16:25:00,153 - logger_File -INFO - User is on retail website
+2023-02-28 16:25:00,274 - logger_File -INFO - User click on All section link
+2023-02-28 16:25:00,397 - logger_File -INFO - Smart Home LightningThe items is present
+2023-02-28 16:25:00,452 - logger_File -INFO - Plugs and OutletsThe items is present
+2023-02-28 16:25:01,657 - logger_File -INFO - User is on retail website
+2023-02-28 16:25:01,747 - logger_File -INFO - User click on All section link
+2023-02-28 16:25:01,871 - logger_File -INFO - Athletic ClothingThe items is present
+2023-02-28 16:25:01,918 - logger_File -INFO - Exercise & FitnessThe items is present
+2023-02-28 16:25:03,194 - logger_File -INFO - User is on retail website
+2023-02-28 16:25:03,288 - logger_File -INFO - User click on All section link
+2023-02-28 16:25:03,431 - logger_File -INFO - Automative Parts & AccessoriesThe items is present
+2023-02-28 16:25:03,480 - logger_File -INFO - MotorCycle & PowersportsThe items is present
