@@ -126,3 +126,30 @@
 2023-02-28 16:25:03,288 - logger_File -INFO - User click on All section link
 2023-02-28 16:25:03,431 - logger_File -INFO - Automative Parts & AccessoriesThe items is present
 2023-02-28 16:25:03,480 - logger_File -INFO - MotorCycle & PowersportsThe items is present
+2023-03-01 16:43:19,317 - logger_File -INFO - User is on retail website
+2023-03-01 16:43:19,429 - logger_File -INFO - user clicked on Sign in Option
+2023-03-01 16:43:19,505 - logger_File -INFO - user clicked on Create New Account button
+2023-03-01 16:43:19,959 - logger_File -INFO - user filled the signUp information form
+2023-03-01 16:43:20,049 - logger_File -INFO - user clicked on SignUp button
+2023-03-01 16:43:20,312 - logger_File -INFO - user is logged into account page
+2023-03-01 16:43:36,873 - logger_File -INFO - User is on retail website
+2023-03-01 16:43:36,967 - logger_File -INFO - user clicked on Sign in Option
+2023-03-01 16:43:37,058 - logger_File -INFO - user clicked on Create New Account button
+2023-03-01 16:43:37,562 - logger_File -INFO - user filled the signUp information form
+2023-03-01 16:43:37,651 - logger_File -INFO - user clicked on SignUp button
+2023-03-01 16:46:19,761 - logger_File -INFO - User is on retail website
+2023-03-01 16:46:19,860 - logger_File -INFO - user clicked on Sign in Option
+2023-03-01 16:46:19,956 - logger_File -INFO - user clicked on Create New Account button
+2023-03-01 16:46:20,482 - logger_File -INFO - user filled the signUp information form
+2023-03-01 16:46:20,561 - logger_File -INFO - user clicked on SignUp button
+2023-03-01 16:47:33,183 - logger_File -INFO - User is on retail website
+2023-03-01 16:47:33,282 - logger_File -INFO - user clicked on Sign in Option
+2023-03-01 16:47:33,382 - logger_File -INFO - user clicked on Create New Account button
+2023-03-01 16:47:33,965 - logger_File -INFO - user filled the signUp information form
+2023-03-01 16:47:34,035 - logger_File -INFO - user clicked on SignUp button
+2023-03-01 16:48:38,299 - logger_File -INFO - User is on retail website
+2023-03-01 16:48:38,399 - logger_File -INFO - user clicked on Sign in Option
+2023-03-01 16:48:38,488 - logger_File -INFO - user clicked on Create New Account button
+2023-03-01 16:48:39,040 - logger_File -INFO - user filled the signUp information form
+2023-03-01 16:48:39,128 - logger_File -INFO - user clicked on SignUp button
+2023-03-01 16:48:39,368 - logger_File -INFO - user is logged into account page

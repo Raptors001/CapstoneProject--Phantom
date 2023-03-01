@@ -10,6 +10,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import tek.sdet.framework.pages.POMFactory;
 import tek.sdet.framework.utilities.CommonUtility;
+import tek.sdet.framework.utilities.DataGenerator;
 
 public class SignInSteps extends CommonUtility {
 
@@ -48,8 +49,9 @@ public class SignInSteps extends CommonUtility {
 	@When("User fill the signUp information with below data")
 	public void userFillTheSignUpInformationWithBelowData(DataTable dataTable) {
 	List<Map<String, String>> data = dataTable.asMaps(String.class,String.class);
-	sendText(factory.signInPage().createNewAccountNameField,data.get(0).get("name"));
-	sendText(factory.signInPage().createNewAccountEmailField,data.get(0).get("email"));
+	sendText(factory.signInPage().createNewAccountNameField,DataGenerator.getData(data.get(0).get("name")));
+	
+	sendText(factory.signInPage().createNewAccountEmailField,DataGenerator.getData(data.get(0).get("email")));
 	sendText(factory.signInPage().createNewAccountPasswordField,data.get(0).get("password"));
 	sendText(factory.signInPage().createNewAccountConfPassField, data.get(0).get("confirmPassword"));
 	logger.info("user filled the signUp information form");
@@ -64,6 +66,7 @@ public class SignInSteps extends CommonUtility {
 	@Then("User should be logged into account page")
 	public void userShouldBeLoggedIntoAccountPage() {
 	    // Write code here that turns the phrase above into concrete actions
+		waitTillPresence(factory.accountPage().accountProfilePicture);
 	    Assert.assertTrue(isElementDisplayed(factory.accountPage().accountProfilePicture));
 	    logger.info("user is logged into account page");
 	}

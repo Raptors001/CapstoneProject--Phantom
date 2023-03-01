@@ -126,3 +126,30 @@
 2023-02-28 16:25:03,288 [main] INFO logger_File - User click on All section link
 2023-02-28 16:25:03,431 [main] INFO logger_File - Automative Parts & AccessoriesThe items is present
 2023-02-28 16:25:03,480 [main] INFO logger_File - MotorCycle & PowersportsThe items is present
+2023-03-01 16:43:19,317 [main] INFO logger_File - User is on retail website
+2023-03-01 16:43:19,429 [main] INFO logger_File - user clicked on Sign in Option
+2023-03-01 16:43:19,505 [main] INFO logger_File - user clicked on Create New Account button
+2023-03-01 16:43:19,959 [main] INFO logger_File - user filled the signUp information form
+2023-03-01 16:43:20,049 [main] INFO logger_File - user clicked on SignUp button
+2023-03-01 16:43:20,312 [main] INFO logger_File - user is logged into account page
+2023-03-01 16:43:36,873 [main] INFO logger_File - User is on retail website
+2023-03-01 16:43:36,967 [main] INFO logger_File - user clicked on Sign in Option
+2023-03-01 16:43:37,058 [main] INFO logger_File - user clicked on Create New Account button
+2023-03-01 16:43:37,562 [main] INFO logger_File - user filled the signUp information form
+2023-03-01 16:43:37,651 [main] INFO logger_File - user clicked on SignUp button
+2023-03-01 16:46:19,761 [main] INFO logger_File - User is on retail website
+2023-03-01 16:46:19,860 [main] INFO logger_File - user clicked on Sign in Option
+2023-03-01 16:46:19,956 [main] INFO logger_File - user clicked on Create New Account button
+2023-03-01 16:46:20,482 [main] INFO logger_File - user filled the signUp information form
+2023-03-01 16:46:20,561 [main] INFO logger_File - user clicked on SignUp button
+2023-03-01 16:47:33,183 [main] INFO logger_File - User is on retail website
+2023-03-01 16:47:33,282 [main] INFO logger_File - user clicked on Sign in Option
+2023-03-01 16:47:33,382 [main] INFO logger_File - user clicked on Create New Account button
+2023-03-01 16:47:33,965 [main] INFO logger_File - user filled the signUp information form
+2023-03-01 16:47:34,035 [main] INFO logger_File - user clicked on SignUp button
+2023-03-01 16:48:38,299 [main] INFO logger_File - User is on retail website
+2023-03-01 16:48:38,399 [main] INFO logger_File - user clicked on Sign in Option
+2023-03-01 16:48:38,488 [main] INFO logger_File - user clicked on Create New Account button
+2023-03-01 16:48:39,040 [main] INFO logger_File - user filled the signUp information form
+2023-03-01 16:48:39,128 [main] INFO logger_File - user clicked on SignUp button
+2023-03-01 16:48:39,368 [main] INFO logger_File - user is logged into account page
