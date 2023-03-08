@@ -15,10 +15,12 @@ import tek.sdet.framework.config.ChromeHeadless;
 import tek.sdet.framework.config.EdgeBrowser;
 import tek.sdet.framework.config.FirefoxBrowser;
 import tek.sdet.framework.utilities.ReadYamlFiles;
+import tek.sdet.framework.utilities.DatabaseConnectionUtility;
 
 public class BaseSetup {
 	private static WebDriver webDriver;
 	private final ReadYamlFiles environmentVariables;
+	private DatabaseConnectionUtility dbUtility;
 	public static Logger logger;
 
 	public BaseSetup() {
@@ -39,6 +41,19 @@ public class BaseSetup {
 		return webDriver;
 	}
 
+	public DatabaseConnectionUtility getDbUtility() {
+		return this.dbUtility;
+	}
+
+	public void getConnectedToDatabase() {
+		HashMap dbProperties = environmentVariables.getYamlProperty("db");
+		String db_URL = dbProperties.get("db_url").toString();
+		String db_userName = dbProperties.get("db_username").toString();
+		String db_password = dbProperties.get("db_password").toString();
+		this.dbUtility = new DatabaseConnectionUtility(db_URL, db_userName, db_password);
+
+	}
+
 	public void setupBrowser() {
 		HashMap uiProperties = environmentVariables.getYamlProperty("ui");
 		System.out.println(uiProperties);
@@ -46,7 +61,7 @@ public class BaseSetup {
 		Browser browser;
 		switch (uiProperties.get("browser").toString().toLowerCase()) {
 		case "chrome":
-			if ( (boolean) uiProperties.get("headless")) {
+			if ((boolean) uiProperties.get("headless")) {
 				browser = new ChromeHeadless();
 			} else {
 				browser = new ChromeBrowser();

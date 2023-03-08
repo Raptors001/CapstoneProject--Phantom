@@ -22,7 +22,6 @@ public class DataGenerator {
 			result = faker.name().firstName().trim();
 		} else if (input.equals("email")) {
 			result = faker.expression("#{letterify '????.????@tekschool.us'}");
-
 		}else
 			result =faker.expression("#{letterify '????.????@tekschool.us'}");
 		return result;

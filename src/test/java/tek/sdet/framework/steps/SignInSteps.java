@@ -71,6 +71,16 @@ public class SignInSteps extends CommonUtility {
 	    logger.info("user is logged into account page");
 	}
 	
+	@Then("User send query {string}")
+	public void userSendQuery(String query) {
+		super.getConnectedToDatabase();
+		List<Map<String, Object>> db = getDbUtility().convertResultToMap(
+				"select * from users where email = 'shaiq.ahmad@tekschool.us';");
+		
+		System.out.println(db.get(0).get("email") + " This is from Database");
+
+	}
+	
 }
 
 

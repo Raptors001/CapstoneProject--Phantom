@@ -6,9 +6,10 @@ Feature: Retail SignIn feature
 
   @Regresion @FunctionalTestCases @tc-001
   Scenario: Verify user can sign in into Retail Application
-    And User enter email 'phantom.test@gmail.com' and password 'Tek@12345'
+    And User enter email 'shaiq.ahmad@tekschool.us' and password 'Test@12345'
     And User click on login button
     Then User should be logged in into Account
+    And User send query 'query'
 
   @tc001
   Scenario Outline: Verify user can sign in into Retail Application

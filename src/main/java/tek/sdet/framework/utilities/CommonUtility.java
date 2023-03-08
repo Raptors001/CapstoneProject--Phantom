@@ -86,6 +86,16 @@ public class CommonUtility extends BaseSetup {
 		toClear.sendKeys(Keys.DELETE);
 	}
 
+	public void clearText(WebElement element) {
+		element.clear();
+	}
+
+	public void clearTextUsingJSExecutor(WebElement element) {
+		element.clear();
+		JavascriptExecutor js = (JavascriptExecutor) getDriver();
+		js.executeScript("arguments[0].value=''", element);
+	}
+
 	public void selectByIndex(WebElement ele, int index) {
 		Select select = new Select(ele);
 		select.selectByIndex(index);
@@ -181,17 +191,17 @@ public class CommonUtility extends BaseSetup {
 	}
 
 	public void switchwindow(String pageTitle) {
-	        String currentWindow = getDriver().getWindowHandle();
-	        Set<String> handles = getDriver().getWindowHandles();
-	        for (String winHandle : handles) {
-	            String currentWindowTitle = getDriver().switchTo().window(winHandle).getTitle();
-	            if (currentWindowTitle.equals(pageTitle)) {
-	                break;
-	            } else {
-	                getDriver().switchTo().window(currentWindow);
-	            }
-	        }
-	    }
+		String currentWindow = getDriver().getWindowHandle();
+		Set<String> handles = getDriver().getWindowHandles();
+		for (String winHandle : handles) {
+			String currentWindowTitle = getDriver().switchTo().window(winHandle).getTitle();
+			if (currentWindowTitle.equals(pageTitle)) {
+				break;
+			} else {
+				getDriver().switchTo().window(currentWindow);
+			}
+		}
+	}
 
 	public void selectCalendarDateWithJS(String date, WebElement element) {
 		JavascriptExecutor js = ((JavascriptExecutor) getDriver());
@@ -206,6 +216,10 @@ public class CommonUtility extends BaseSetup {
 	public void scrollPageDownWithJS() {
 		JavascriptExecutor js = ((JavascriptExecutor) getDriver());
 		js.executeScript("window.scrollTo(0,document.body.scrollHeight)");
+	}
+
+	public void clearTextUsingClearMethod(WebElement toClear) {
+		toClear.clear();
 	}
 
 }
